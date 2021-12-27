@@ -70,6 +70,6 @@ email: ""
 highlight_name: true
 ---
 
-Peter Grund is a professor.
+Peter Grund is a researcher.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
