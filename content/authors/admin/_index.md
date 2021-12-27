@@ -18,7 +18,7 @@ bio: My research interests include substance use, neurodevelopment, and impulsiv
 
 # Interests to show in About widget
 interests:
-- Cannabis
+- Substance use
 - Adolescent neurodevelopment
 - Impulsivity & risk taking
 
