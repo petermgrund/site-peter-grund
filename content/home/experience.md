@@ -35,7 +35,18 @@ experience:
         * Coordinating 2 research studies
         * Administration of neuropsych tasks
         * Data analysis
-        
+
+- title: BS with Honors in Psychology
+  company: University of Minnesota Twin Cities
+  company_url: ''
+  company_logo: umn
+  location: Minnesota
+  date_start: '2018-09-01'
+  date_end: '2022-05-01'
+  description: |2-
+      * Did work
+      * More work
+
   - title: Teaching Assistant for Human Neuroanatomy
     company: University of Minnesota Medical School
     company_url: ''
