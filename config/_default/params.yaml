@@ -21,7 +21,7 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: grund130@umn.edu
-phone: 612 396 3078
+phone: 
 address:
   street:
   city:
@@ -34,18 +34,11 @@ contact_links:
     icon_pack: fab
     name: Twitter
     link: 'https://twitter.com/petermgrund'
-  - icon: github-square
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
   - icon: linkedin-in
     icon_pack: fab
     name: LinkedIn
     link: 'https://www.linkedin.com/in/peter-m-grund-022352102/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+
 
 # Site header
 
