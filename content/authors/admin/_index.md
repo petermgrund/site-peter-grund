@@ -24,7 +24,17 @@ interests:
 - Religion and belief
 
 # Education to show in About widget
-
+education:
+  courses:
+  - course: ''
+    institution: ''
+    year: ''
+  - course: ''
+    institution: ''
+    year: ''
+  - course: BS in Psychology
+    institution: University of Minnesota
+    year: '2018-2022'
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
