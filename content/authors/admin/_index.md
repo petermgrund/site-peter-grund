@@ -71,6 +71,6 @@ email: ""
 highlight_name: true
 ---
 
-Peter Grund is a researcher.
+Peter Grund is a researcher at the University of Minnesota.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
