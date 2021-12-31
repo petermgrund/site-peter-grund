@@ -5,8 +5,7 @@ date: 2021-12-30T20:08:06.810Z
 draft: false
 featured: true
 authors: []
-tags:
-  - "#religion"
+tags: []
 image:
   filename: screen-shot-2021-12-30-at-2.36.43-pm.png
   focal_point: Smart
