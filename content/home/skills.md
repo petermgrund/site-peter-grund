@@ -36,10 +36,10 @@ feature:
   icon: child
   icon_pack: fas
   name: Development
-- icon: "religion"
-  icon_pack: "custom" 
-  name: "Religion"
-  description: ""
+- description: ""
+  icon: dove
+  icon_pack: fas
+  name: Religion
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

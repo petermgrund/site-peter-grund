@@ -29,7 +29,7 @@ experience:
     location: Minnesota
     date_start: '2021-01-01'
     date_end: ''
-    description: 'add'
+    description: ''
 
   - title: BS with Honors in Psychology
     company: University of Minnesota Twin Cities
@@ -38,7 +38,7 @@ experience:
     location: Minnesota
     date_start: '2018-09-01'
     date_end: '2022-05-01'
-    description: 'add'
+    description: ''
 
   - title: Teaching Assistant for Human Neuroanatomy
     company: University of Minnesota Medical School
@@ -47,7 +47,7 @@ experience:
     location: Minnesota
     date_start: '2020-09-01'
     date_end: '2021-12-01'
-    description: Guided undergraduates through sheep and human cadaver dissections.
+    description: ''
 
 design:
   columns: '2'
