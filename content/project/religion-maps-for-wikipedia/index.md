@@ -9,3 +9,6 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+# U.S.A.
+
+![](percent_of_population_members_of_elca_by_state-_2010.svg "Percent ELCA by state, 2010")
