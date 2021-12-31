@@ -9,12 +9,3 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-# Maps of the United States
-
-![](https://upload.wikimedia.org/wikipedia/commons/c/cf/Percent_of_population_Lutheran_by_state.svg "Image 1")
-
-Image 1: Percent of population Lutheran by state
-
-![]()
-
-# Maps of the World
