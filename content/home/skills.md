@@ -36,9 +36,9 @@ feature:
   icon: child
   icon_pack: fas
   name: Development
-- icon: "embryo"
-  icon_pack: "custom"
-  name: "Surfing"
+- icon: "religion"
+  icon_pack: "custom" 
+  name: "Religion"
   description: ""
 
 # Uncomment to use emoji icons.
