@@ -22,12 +22,12 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Undergraduate Researcher
+  - title: Clinical Researcher
     company: University of Minnesota Department of Psychology
-    company_url: ''
+    company_url: 'https://lucianalab.psych.umn.edu/people/peter-grund'
     company_logo: umn
     location: Minnesota
-    date_start: '2021-01-01'
+    date_start: '2022-05-01'
     date_end: ''
     description: ''
 
@@ -38,7 +38,7 @@ experience:
     location: Minnesota
     date_start: '2018-09-01'
     date_end: '2022-05-01'
-    description: ''
+    description: 'Graduated summa cum laude with high distinction'
 
   - title: Teaching Assistant for Human Neuroanatomy
     company: University of Minnesota Medical School
@@ -47,7 +47,7 @@ experience:
     location: Minnesota
     date_start: '2020-09-01'
     date_end: '2021-12-01'
-    description: ''
+    description: 'Provided instruction on human neuroanatomy and guided students through sheep and human cadaver dissections'
 
 design:
   columns: '2'
