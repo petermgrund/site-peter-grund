@@ -29,7 +29,7 @@ experience:
     location: Minnesota
     date_start: '2022-05-01'
     date_end: ''
-    description: ''
+    description: 'I manage two research studies within the Clinical Science and Psychopathology Research Program under Dr. Monica Luciana'
 
   - title: BS with Honors in Psychology
     company: University of Minnesota Twin Cities
