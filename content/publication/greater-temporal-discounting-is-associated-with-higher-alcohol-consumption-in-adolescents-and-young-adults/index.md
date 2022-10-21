@@ -5,14 +5,10 @@ subtitle: ""
 publication_types:
   - "0"
 authors:
-  - Grund
-  - P.M.
-  - Klein
-  - S.
-  - Collins
-  - P.F.
-  - Luciana
-  - M.
+  - Peter M. Grund
+  - Samuel Klein
+  - Paul F. Collins
+  - Monica Luciana
 draft: false
 featured: false
 tags: []
