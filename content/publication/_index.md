@@ -7,10 +7,10 @@ cms_exclude: true
 #   2 = Compact
 #   3 = Card
 #   4 = Citation
-view: 4
+view: 3
 
 # Optional header image (relative to `static/media/` folder).
-header:
-  caption: ""
-  image: ""
+header: Greater Temporal Discounting is Associated with Higher Alcohol Consumption in Adolescents and Young Adults
+  caption: "Presented at Presented at the Minnesota Symposium on Addiction Neuroscience, Minneapolis, MN"
+  image: "mnsan-poster-portrait.jpeg"
 ---
