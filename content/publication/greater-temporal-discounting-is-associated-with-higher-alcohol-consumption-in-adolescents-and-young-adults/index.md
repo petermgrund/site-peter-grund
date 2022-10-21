@@ -1,5 +1,5 @@
 ---
-title: Greater Temporal Discounting is Associated with  	Higher Alcohol
+title: Greater Temporal Discounting is Associated with Higher Alcohol
   Consumption in Adolescents and Young Adults
 subtitle: ""
 publication_types:
