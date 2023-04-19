@@ -21,19 +21,15 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: grund130@umn.edu
-phone: 
+phone: 612-624-4054
 address:
-  street:
-  city:
+  street: S344 75 East River Road
+  city: Minneapolis
   region: MN
   postcode: '55414'
   country: United States
   country_code: US
 contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: Twitter
-    link: 'https://twitter.com/petermgrund'
   - icon: linkedin-in
     icon_pack: fab
     name: LinkedIn
