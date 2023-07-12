@@ -28,8 +28,8 @@ experience:
     company_url: 'https://med.umn.edu/neurology'
     company_logo: umn
     location: Minnesota
-    date_start: '2022-05-01'
-    date_end: '2023-05-17'
+    date_start: '2023-05-17'
+    date_end:
     description: 
 
   - title: Researcher
