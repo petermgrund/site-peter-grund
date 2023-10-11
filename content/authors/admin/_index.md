@@ -64,4 +64,4 @@ highlight_name: true
 
 Peter Grund is a researcher at the University of Minnesota.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/GRUND_CV_JULY_23.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/grund_CV_public.pdf" "newtab" >}}CV{{< /staticref >}}.
