@@ -22,7 +22,7 @@ feature:
   name: R language
 - description: ""
   icon: hands-asl-interpreting
-  icon_pack: fas
+  icon_pack: fa
   name: Accessability
 - description: ""
   icon: brain
@@ -38,7 +38,7 @@ feature:
   name: Emerging adulthood
 - description: ""
   icon: user-doctor
-  icon_pack: fas
+  icon_pack: fa
   name: Clinical research
 
 # Uncomment to use emoji icons.
