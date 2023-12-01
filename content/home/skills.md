@@ -19,11 +19,11 @@ feature:
 - description: ""
   icon: r-project
   icon_pack: fab
-  name: R
+  name: R language
 - description: ""
-  icon: chart-line
+  icon: hands-asl-interpreting
   icon_pack: fas
-  name: Statistics
+  name: Accessability
 - description: ""
   icon: brain
   icon_pack: fas
@@ -35,11 +35,11 @@ feature:
 - description: ""
   icon: child
   icon_pack: fas
-  name: Development
+  name: Emerging adulthood
 - description: ""
-  icon: dove
+  icon: user-doctor
   icon_pack: fas
-  name: Religion
+  name: Clinical research
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
