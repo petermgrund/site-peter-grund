@@ -14,14 +14,13 @@ organizations:
   url: https://www.umn.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include substance use, neurodevelopment, impulsivity, and religion.
+bio: My research interests include the psychology of visible difference, chronic illness, and emerging adulthood.
 
 # Interests to show in About widget
 interests:
-- Substance use
-- Adolescent neurodevelopment
-- Impulsivity & risk taking
-- Religion and belief
+- Psychosocial adjustment to visible difference (deformity)
+- Neurocognitive effects of chronic illness
+- Substance use in emerging adulthood 
 
 # Education to show in About widget
 education:
