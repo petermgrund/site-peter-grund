@@ -21,7 +21,7 @@ feature:
   icon_pack: fab
   name: R language
 - description: ""
-  icon: fa-american-sign-language-interpreting
+  icon: wheelchair
   icon_pack: fas
   name: Accessibility
 - description: ""
@@ -37,7 +37,7 @@ feature:
   icon_pack: fas
   name: Emerging adulthood
 - description: ""
-  icon: user-doctor
+  icon: user-md
   icon_pack: fas
   name: Clinical research
 
