@@ -14,13 +14,13 @@ organizations:
   url: https://www.umn.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include the psychology of visible difference, chronic illness, and emerging adulthood.
+bio: My research interests include the psychology of visible difference, body image, and chronic illness.
 
 # Interests to show in About widget
 interests:
-- Psychosocial adjustment to visible difference (deformity)
-- Neurocognitive effects of chronic illness
-- Substance use in emerging adulthood 
+- Psychosocial adjustment to visible difference
+- Development of body image in adolescence
+- Interplay between chronic illness and psychopathology 
 
 # Education to show in About widget
 education:
@@ -61,6 +61,6 @@ email: ""
 highlight_name: true
 ---
 
-Peter Grund is a researcher at the University of Minnesota.
+Peter Grund is a researcher in the Department of Neurology at the University of Minnesota.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/grund_CV_public.pdf" "newtab" >}}CV{{< /staticref >}}.
