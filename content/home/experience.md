@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-  - title: Clinical Research Coordinator
+  - title: Clinical Researcher
     company: Department of Neurology
     company_url: 'https://med.umn.edu/neurology'
     company_logo: umn
@@ -31,18 +31,21 @@ experience:
     date_start: '2023-05-17'
     date_end:
     description: |
-      - Overseeing two clinical trials assessing efficacy of novel DBS treatments for essential tremor
-        - [Algorithms for Programming DBS Systems for ET](https://clinicaltrials.gov/study/NCT03984643)
-        - [Coordinated Reset Deep Brain Stimulation for Essential Tremor](https://clinicaltrials.gov/study/NCT05897775)
+      - I manage two clinical trials that assess efficacy of novel DBS treatments for essential tremor.
+        - [Algorithms for Programming DBS Systems for ET](https://clinicaltrials.gov/study/NCT03984643) ([Matthew Johnson, PhD](https://cse.umn.edu/bme/matthew-d-johnson))
+        - [Coordinated Reset Deep Brain Stimulation for Essential Tremor](https://clinicaltrials.gov/study/NCT05897775) ([Jing Wang, PhD](https://med.umn.edu/bio/neurology/jing-wang))
+      - I gather EMG and behavioral data during surgery to inform models that could predict effective DBS settings post-placement.
 
-  - title: Researcher
+  - title: Lab coordinator
     company: University of Minnesota Department of Psychology
     company_url: 'https://lucianalab.psych.umn.edu/people/peter-grund'
     company_logo: umn
     location: Minnesota
     date_start: '2022-05-01'
     date_end: '2023-05-16'
-    description: 'I manage two research studies within the Clinical Science and Psychopathology Research Program under Dr. Monica Luciana'
+    description: |
+      - I collected data for a behavioral testing for an internally funded longitudinal neurocognitive study of adult medical cannabis users.
+      - I assisted with behavioral and neuroimaging data analyses. 
 
   - title: BS with Honors in Psychology
     company: University of Minnesota Twin Cities
@@ -51,7 +54,7 @@ experience:
     location: Minnesota
     date_start: '2018-09-01'
     date_end: '2022-05-01'
-    description: 'Graduated summa cum laude with high distinction'
+    description: 'I graduated summa cum laude with high distinction.'
 
   - title: Teaching Assistant for Human Neuroanatomy
     company: University of Minnesota Medical School
@@ -60,7 +63,7 @@ experience:
     location: Minnesota
     date_start: '2020-09-01'
     date_end: '2021-12-01'
-    description: 'Provided instruction on human neuroanatomy and guided students through sheep and human cadaver dissections'
+    description: 'I provided instruction on human neuroanatomy and guided students through sheep and human cadaver dissections'
 
 design:
   columns: '2'
