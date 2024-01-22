@@ -30,7 +30,10 @@ experience:
     location: Minnesota
     date_start: '2023-05-17'
     date_end:
-    description: 
+    description: |
+      - Overseeing two clinical trials assessing efficacy of novel DBS treatments for essential tremor
+        - [Algorithms for Programming DBS Systems for ET](https://clinicaltrials.gov/study/NCT03984643)
+        - [Coordinated Reset Deep Brain Stimulation for Essential Tremor](https://clinicaltrials.gov/study/NCT05897775)
 
   - title: Researcher
     company: University of Minnesota Department of Psychology
