@@ -14,13 +14,14 @@ organizations:
   url: https://www.umn.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include the psychology of visible difference, body image, and chronic illness.
+bio: My research interests include the association between internalizing psychopathology, stress, and chronic illness. I'm also interested in demographics and the social determinants of health.
 
 # Interests to show in About widget
 interests:
-- Psychosocial adjustment to visible difference
-- Development of body image in adolescence
-- Interplay between chronic illness and psychopathology 
+- Biopsychosocial model of depression
+- Affect of early life stress on psychopathology in adulthood
+- Interplay between chronic illness and mental health in older adults 
+- Role of demographic factors in the stress–depression relationship 
 
 # Education to show in About widget
 education:
